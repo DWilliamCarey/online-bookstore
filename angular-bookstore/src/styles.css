@@ -1,6 +1,12 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
-body
+h1
 {
     font-family: 'Roboto Mono';
 }
+
+body {
+    padding-top: 56px;
+  }
